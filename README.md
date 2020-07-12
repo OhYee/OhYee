@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+See more information from [about page](https://www.oyohyee.com/about) of [my blog](https://www.oyohyee.com)
 
 <!--
 **OhYee/OhYee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
